@@ -1,0 +1,19 @@
+.nav-bar {
+  background-color: #1fadff;
+  justify-content: center; 
+  text-align: center;
+}
+
+.nav-link,
+.nav-link-active {
+  font-weight: normal; 
+  color: rgb(255, 255, 255); 
+  text-align: center;
+  padding: 14px 25px;
+  text-decoration: none;
+}
+
+.nav-link-active {
+  color: #e8ff19; 
+  font-weight: bold;
+}
