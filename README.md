@@ -12,10 +12,6 @@ This is a simple practice React web application that simulates a snack vending m
 - Navigation bar allows users to switch between different snacks.
 - The application is styled and centered for a better user experience.
 
-## Screenshots
-
-![Vending Machine](/images/vendingmachine.png)
-
 ## Installation
 
 1. Clone the repository to your local machine.
